@@ -26,10 +26,14 @@ python week07/functions.py
 
 Question 1 
 
+c4beafb (HEAD -> main, origin/main) add lab reflection to README
 bba76c0 add README with module listing and run instructions
 14c4bcc add week07 folder and functions.py
 63f73f5 fix: make week07 a proper directory containing functions.py
 db7017c add module 7 functions: calculate_tax, apply_discount, final_price
+7d9e501 merge remote README with local gitignore
+6b465be add .gitignore for Python and OS files
+05b4afc Initial commit
 
 Question 2: How Git Changes Script Editing
 
